@@ -1,0 +1,41 @@
+# list of questions for rainfall.csv--> pandas code --> to answer using rainfall.csv
+
+Which year recorded the highest annual rainfall in each subdivision?
+
+What is the trend of annual rainfall over the years in each subdivision?
+
+Which subdivision receives the highest average annual rainfall?
+
+Which subdivision shows the highest variation in rainfall across years?
+
+In which year did India receive the lowest total rainfall (across all subdivisions)?
+
+Which month receives the highest average rainfall across all subdivisions?
+
+Which month has the most instances of zero rainfall?
+
+What is the average rainfall during the monsoon season (Jun-Sep) across all years?
+
+Which subdivision receives the most rainfall during the winter months (Dec-Feb)?
+
+How does pre-monsoon (Mar-May) rainfall compare to monsoon (Jun-Sep) rainfall across subdivisions?
+
+Which subdivision shows a rising trend in annual rainfall?
+
+Are there any subdivisions where rainfall has significantly declined over the last 50 years?
+
+Which subdivision has the most consistent rainfall pattern throughout the year?
+
+What is the wettest month of the year for each subdivision?
+
+Which year had the most uneven rainfall distribution across India?
+
+How does rainfall in October–December vary between coastal and inland subdivisions?
+
+How does the rainfall in January and February correlate with annual rainfall?
+
+Which years had extreme rainfall (more than 1.5 times the average) in any subdivision?
+
+Are there any years where all subdivisions had below-average rainfall?
+
+How often does a subdivision experience more than 1000 mm of rainfall in June?
